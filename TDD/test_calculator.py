@@ -11,3 +11,6 @@ def test_mediaNegativo():
 def test_mediaZero():
     result = Calculator.media(0, 0)
     assert result == 0
+def teste_mediaTeste2():
+    result = Calculator.media(10, 7)
+    assert result == 8.5
