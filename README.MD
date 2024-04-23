@@ -1,1 +1,1 @@
-Teste de dois números em BDD e TDD
+Teste da média de dois números em BDD e TDD
